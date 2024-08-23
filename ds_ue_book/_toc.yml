@@ -1,0 +1,29 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Wprowadzenie
+    chapters:
+      - file: wprowadzenie/zalozenia
+      - file: wprowadzenie/autorzy
+      - file: wprowadzenie/wspolpraca
+      - file: wprowadzenie/notacja_oznaczenia
+  - caption: Uczenie maszynowe
+    chapters:
+      - file: uczenie_maszynowe_wstep/wprowadzenie.md
+        sections:
+          - file: uczenie_maszynowe_wstep/kluczowe_pojecia.md
+          - file: uczenie_maszynowe_wstep/elementy_teorii_colt.ipynb
+          - file: uczenie_maszynowe_wstep/blad_obciazenia_i_wariancji.ipynb
+          - file: uczenie_maszynowe_wstep/zadania_i_metryki_w_ml.ipynb
+  - caption: Narzędzia DS
+    chapters:
+      - file: narzedzia_ds/wprowadzenie.md
+      - file: narzedzia_ds/biblioteki_w_pythonie.ipynb
+  - caption: Załączniki
+    chapters:
+      - file: zalaczniki/zalaczniki.md
+      - file: zalaczniki/indeks_pojec.md
+      - file: zalaczniki/bibliografia.md
