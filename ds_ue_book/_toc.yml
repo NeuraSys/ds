@@ -10,6 +10,7 @@ parts:
       - file: wprowadzenie/autorzy
       - file: wprowadzenie/wspolpraca
       - file: wprowadzenie/notacja_oznaczenia
+      - file: wprowadzenie/cytowanie
   - caption: Uczenie maszynowe
     chapters:
       - file: uczenie_maszynowe_wstep/wprowadzenie.md

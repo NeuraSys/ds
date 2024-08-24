@@ -2,8 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: "Data Science - Przegląd Zagadnień"
-author: "Ryszard Zygała, Helena Dudycz, Filip Wójcik. Redakcja i opracowanie techniczne: Filip Wójcik"
-copyright: "Ryszard Zygała, Helena Dudycz, Filip Wójcik, 2024"
+author: "Dudycz H., Zygała R., Wójcik F.. Redakcja i opracowanie techniczne: Wójcik F."
+copyright: "Dudycz H., Zygała R., Wójcik F., 2024"
 logo: ./images/logo.svg
 
 # Force re-execution of notebooks on each build.
@@ -35,8 +35,8 @@ html:
   use_edit_page_button: true
   home_page_in_navbar: true
   extra_footer: |
+    Cytowanie: <a href="https://doi.org/10.5281/zenodo.13369871"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13369871.svg" alt="DOI"></a> <br>
     Logo: image by <a href="https://pixabay.com/users/mcmurryjulie-2375405/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2031395">mcmurryjulie</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2031395">Pixabay</a>
-
 
 sphinx:
   config:
