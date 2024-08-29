@@ -6,5 +6,5 @@ Pomimo, iż pozycja ta nie została wydana przez tradycyjne wydawnictwo, dzięki
 
 Droga Czytelniczko, lub Czytelniku, jeśli korzystasz z zasobów zawartych w tej publikacji, prosimy o podanie poniższego cytowania:
 
-> Dudycz, H., Zygała, R., & Wójcik, F. (2024). Data Science - przegląd zagadnień (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.13369871
+> Wójcik, F., Dudycz, H., & Zygała, R. (2024). Data Science - przegląd zagadnień (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.13369871
 
