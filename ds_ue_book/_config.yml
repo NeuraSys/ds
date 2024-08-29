@@ -2,8 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: "Data Science - Przegląd Zagadnień"
-author: "Dudycz H., Zygała R., Wójcik F.. Redakcja i opracowanie techniczne: Wójcik F."
-copyright: "Dudycz H., Zygała R., Wójcik F., 2024"
+author: "Wójcik F., Dudycz H., & Zygała R.. Redakcja i opracowanie: Wójcik F."
+copyright: "Wójcik F., Dudycz H. & Zygała R., 2024"
 logo: ./images/logo.svg
 
 # Force re-execution of notebooks on each build.
