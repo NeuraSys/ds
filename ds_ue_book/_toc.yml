@@ -23,6 +23,7 @@ parts:
             - file: uczenie_maszynowe_wstep/metryki_ml/klasyfikacja.ipynb
             - file: uczenie_maszynowe_wstep/metryki_ml/klasyfikacja_probabilistyczna.ipynb
             - file: uczenie_maszynowe_wstep/metryki_ml/regresja.ipynb
+            - file: uczenie_maszynowe_wstep/metryki_ml/grupowanie.ipynb
   - caption: Narzędzia DS
     chapters:
       - file: narzedzia_ds/wprowadzenie.md

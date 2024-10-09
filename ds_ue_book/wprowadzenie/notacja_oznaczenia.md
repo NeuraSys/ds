@@ -1,5 +1,6 @@
-# Notacja i oznaczenia [^autor]
-[^autor]: Autor sekcji: {ref}`authors:filip-wojcik`
+# Notacja i oznaczenia
+
+Autor sekcji: {ref}`authors:filip-wojcik`
 
 
 W dyskusjach dotyczących *data science* i uczenia maszynowego, bardzo ważne jest ujednolicenie notacji i stosowanych oznaczeń. Nierzadko zdarza się, że różne źródła naukowe, czy też praktycy, stosują różne symbole dla tych samych pojęć. W celu uniknięcia nieporozumień, warto zdefiniować zestaw oznaczeń, które będą stosowane w dalszej części tego skryptu.

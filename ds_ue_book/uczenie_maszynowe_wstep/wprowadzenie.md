@@ -1,5 +1,5 @@
-# Wprowadzenie do Uczenia Maszynowego [^autor]
-[^autor]: Autor sekcji: {ref}`authors:filip-wojcik`.
+# Wprowadzenie do Uczenia Maszynowego
+Autor sekcji: {ref}`authors:filip-wojcik`.
 
 Uczenie maszynowe (ML, *ang* Machine learning) jest bardzo szeroką dziedziną, łączącą w sobie elementy:
 1. statystyki,
