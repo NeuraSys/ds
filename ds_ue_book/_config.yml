@@ -52,6 +52,6 @@ launch_buttons:
 
 
 repository:
-  url: https://github.com/maddataanalyst/ds_book
-  path_to_book: ds_ue_script
+  url: https://github.com/NeuraSys/ds
+  path_to_book: ds_ue_book
   branch: main

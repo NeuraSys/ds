@@ -18,7 +18,12 @@ parts:
           - file: uczenie_maszynowe_wstep/kluczowe_pojecia.md
           - file: uczenie_maszynowe_wstep/elementy_teorii_colt.ipynb
           - file: uczenie_maszynowe_wstep/blad_obciazenia_i_wariancji.ipynb
-          - file: uczenie_maszynowe_wstep/zadania_i_metryki_w_ml.ipynb
+          - file: uczenie_maszynowe_wstep/metryki_ml/metryki_ml_wstep.md
+            sections:
+            - file: uczenie_maszynowe_wstep/metryki_ml/klasyfikacja.ipynb
+            - file: uczenie_maszynowe_wstep/metryki_ml/klasyfikacja_probabilistyczna.ipynb
+            - file: uczenie_maszynowe_wstep/metryki_ml/regresja.ipynb
+            - file: uczenie_maszynowe_wstep/metryki_ml/grupowanie.ipynb
   - caption: Narzędzia DS
     chapters:
       - file: narzedzia_ds/wprowadzenie.md

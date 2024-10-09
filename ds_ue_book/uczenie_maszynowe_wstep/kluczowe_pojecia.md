@@ -1,5 +1,5 @@
-# Kluczowe pojęcia [^autor]
-[^autor]: Autor sekcji: {ref}`authors:filip-wojcik`.
+# Kluczowe pojęcia
+Autor sekcji: {ref}`authors:filip-wojcik`.
 
 
 Ten podrozdział poświęcono kluczowym pojęciom z zakresu uczenia maszynowego. Obejmuje on definicje i wyjaśnienia terminów, które są niezbędne do zrozumienia dalszych zagadnień.
